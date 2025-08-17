@@ -18,11 +18,7 @@ Este projeto é um sistema para gerenciar filmes usando <strong>Python</strong> 
 O objetivo é praticar manipulação de dados, formulários e integração com banco de dados.
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/filmes-screenshot.png" alt="Screenshot do Projeto" width="600">
-</p>
 
----
 
 <h2>✨ Funcionalidades</h2>
 <ul>
